@@ -21,13 +21,19 @@ top left) or a zine. Zines have to be printed with the panels in different
 positions, and some of them upside down, so that when the zine is folded
 the panels form the front and back cover and internal pages of the booklet.
 
-* FAQ
+## FAQ
 
-** Does anyone need this?
+### Does anyone need this?
 
 Probably not.
 
-** Could you use it at a conference, with the poster behind you, handing out 'zine'
+### Could you use it at a conference, with the poster behind you, handing out 'zine'
 versions?
 
 Sure.
+
+### Why did you make this?
+
+Because the juxtaposition of LaTex, an environment preferred by the most serious
+scientists for its ability to layout complex equations, with the idea of the kind
+of thing a kid might make, made me laugh. But, yes, I will be using it at a conference.
