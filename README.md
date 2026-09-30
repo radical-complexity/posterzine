@@ -27,8 +27,7 @@ the panels form the front and back cover and internal pages of the booklet.
 
 Probably not.
 
-### Could you use it at a conference, with the poster behind you, handing out 'zine'
-versions?
+### Could you use it at a conference, with the poster behind you, handing out 'zine' versions so that people can take them home by simply putting them in their pockets??
 
 Sure.
 
