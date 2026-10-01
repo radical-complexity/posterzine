@@ -1,0 +1,12 @@
+\foreach \x in {2.0, 3.0, ..., 12.0,  }\draw[color=green]   (0.0, 0.0) circle (\x);
+\foreach \x in {2.0, 3.0, ..., 12.0,  }\draw[color=magenta] (\zinepanelwidth, 0.0) circle (\x);
+\begin{scope}[yshift= 0.6 * \zinepanelheight, xshift=0.1 * \zinepanelwidth]
+  \node[transform shape, anchor=south west, font=\tiny, text width=\zinepanelwidth * 0.89, fill=red!20, rotate=20, rounded corners] 
+  {
+  This is some text. And some more. And here's an equation: 
+  
+  \begin{equation}
+      Y_{i} = \frac{1x}{(n-1)n} + n^4
+  \end{equation}
+};
+\end{scope}
